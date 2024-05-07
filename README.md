@@ -5,11 +5,9 @@
   
 
 - 🌱I'm taking courses from VK education  
-  
 
--  📃My [CV](https://drive.google.com/file/d/1BrkhVXl_OkSrVqrq7-hiD-YlgW7VbWvS/view?usp=sharing)  
-  
 
+  
 - 🐊I'm currently studying GO and information security.  
   
 
