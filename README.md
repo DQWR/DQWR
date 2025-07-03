@@ -1,17 +1,3 @@
-### <div align="center">Web developer</div>  
-  
-
-- 📘Currently studying at MSTU  
-  
-
-- 🌱I'm taking courses from VK education  
-
-
-  
-- 🐊I'm currently studying GO and information security.  
-  
-
-<br/>  
 
 
 ## My Skill Set  
